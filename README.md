@@ -22,3 +22,8 @@ Repositório para materiais do Universal Acceptance.
 **descrição:** UASG 006 - RFCs relacionados a nomes de domínio internacionalizados, email internacionalizado e outros assuntos relevantes para a aceitação universal.
 
 **links:** [English](https://uasg.tech/wp-content/uploads/documents/UASG006-en-digital.pdf) | [Español](https://uasg.tech/wp-content/uploads/documents/UASG006-es-digital.pdf) | [Français](https://uasg.tech/wp-content/uploads/documents/UASG007-fr-digital.pdf) | [عربى](https://uasg.tech/wp-content/uploads/documents/UASG006-ar-digital.pdf) | [中文](https://uasg.tech/wp-content/uploads/documents/UASG006-zh-digital.pdf) | [Pусский](https://uasg.tech/wp-content/uploads/documents/UASG006-ru-digital.pdf)
+
+## Links importantes
+* [página oficial do Universal Acceptance Steering Group (UASG)](https://uasg.tech/)
+* [artigo sobre o Universal Acceptance - ICANNWIki](https://icannwiki.org/Universal_Acceptance)
+* [universal acceptance fct sheet](https://www.icann.org/en/system/files/files/ua-factsheet-a4-17dec15-en.pdf)
